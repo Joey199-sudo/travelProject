@@ -1,0 +1,16 @@
+body{
+
+}
+
+.header{
+    background-image: url("https://media.istockphoto.com/id/509724438/photo/street-in-pretoria-lined-with-jacaranda-trees.jpg?s=2048x2048&w=is&k=20&c=3TkeulJae-k-NMuxIp6oaZmEyz6Kn4JNCmplkS0WUDs=");
+    
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 70px;
+  line-height: 140px;
+}
